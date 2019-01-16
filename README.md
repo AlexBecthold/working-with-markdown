@@ -3,7 +3,8 @@ Playing around with Markdown
 
 ## Links
 
-- [Webpage](https://github.com/AlexBecthold "Github")
+- [My GitHub Account](https://github.com/AlexBecthold "to Github")
+- [My LinkedIn Account](https://www.linkedin.com/in/alex-becthold/ "to LinkedIn")
 
 ## Getting Started
 
