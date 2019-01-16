@@ -3,8 +3,7 @@ Playing around with Markdown
 
 ## Links
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://github.com/AlexBecthold "Github")
 
 ## Getting Started
 
