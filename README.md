@@ -6,6 +6,8 @@ Playing around with Markdown
 - [My GitHub Account](https://github.com/AlexBecthold "to Github")
 - [My LinkedIn Account](https://www.linkedin.com/in/alex-becthold/ "to LinkedIn")
 
+![Hosted image](https://i.ebayimg.com/images/g/C-0AAOSwsuNbrXrV/s-l640.jpg "Vault Boy")
+
 ## Getting Started
 
 1. Login to GitHub.
